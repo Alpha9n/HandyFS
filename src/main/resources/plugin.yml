@@ -1,0 +1,6 @@
+name: HandyFS
+version: ${project.version}
+main: pro.freeserver.plugin.alphakun.handyfs.Handyfs
+api-version: 1.16
+authors: [ Alphakun ]
+description: FREESERVER の各種機能を実装します。
