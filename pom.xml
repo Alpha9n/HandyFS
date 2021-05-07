@@ -6,7 +6,7 @@
 
     <groupId>pro.freeserver.plugin.alphakun</groupId>
     <artifactId>handyfs</artifactId>
-    <version>0.0.1-dev</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>HandyFS</name>
